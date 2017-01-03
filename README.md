@@ -13,7 +13,7 @@ A list of my much important links separated with sections.
 ##Angular
 
 - Courses
-  <a href="http://courses.angularclass.com/" target="_blank">Angular Class</a>
+  - <a href="http://courses.angularclass.com/" target="_blank">Angular Class</a>
   
 
 ##Asp .Net
