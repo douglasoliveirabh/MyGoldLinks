@@ -1,6 +1,6 @@
 # My Gold Links
 
-A list of my much important links separated with sections.
+A list of my much important links separated by sections.
 
 
 ##Node
