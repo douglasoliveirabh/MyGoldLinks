@@ -16,6 +16,9 @@ A list of my much important links separated by sections.
   - <a href="http://courses.angularclass.com/" target="_blank">Angular Class</a>
   
 
-##Asp .Net
+##.Net
+
+- Podcasts
+ - <a href="https://www.dotnetrocks.com/" target="_blank">.Net Rocks</a>
 
 
